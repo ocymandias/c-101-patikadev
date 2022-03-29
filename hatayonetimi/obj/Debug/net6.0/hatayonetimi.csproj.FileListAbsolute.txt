@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\c-101-patikadev\hatayonetimi\bin\Debug\net6.0\hatayonetimi.exe
+C:\Users\User\Documents\GitHub\c-101-patikadev\hatayonetimi\bin\Debug\net6.0\hatayonetimi.deps.json
+C:\Users\User\Documents\GitHub\c-101-patikadev\hatayonetimi\bin\Debug\net6.0\hatayonetimi.runtimeconfig.json
+C:\Users\User\Documents\GitHub\c-101-patikadev\hatayonetimi\bin\Debug\net6.0\hatayonetimi.dll
+C:\Users\User\Documents\GitHub\c-101-patikadev\hatayonetimi\bin\Debug\net6.0\hatayonetimi.pdb
+C:\Users\User\Documents\GitHub\c-101-patikadev\hatayonetimi\obj\Debug\net6.0\hatayonetimi.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\c-101-patikadev\hatayonetimi\obj\Debug\net6.0\hatayonetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\c-101-patikadev\hatayonetimi\obj\Debug\net6.0\hatayonetimi.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\c-101-patikadev\hatayonetimi\obj\Debug\net6.0\hatayonetimi.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\c-101-patikadev\hatayonetimi\obj\Debug\net6.0\hatayonetimi.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\c-101-patikadev\hatayonetimi\obj\Debug\net6.0\hatayonetimi.dll
+C:\Users\User\Documents\GitHub\c-101-patikadev\hatayonetimi\obj\Debug\net6.0\refint\hatayonetimi.dll
+C:\Users\User\Documents\GitHub\c-101-patikadev\hatayonetimi\obj\Debug\net6.0\hatayonetimi.pdb
+C:\Users\User\Documents\GitHub\c-101-patikadev\hatayonetimi\obj\Debug\net6.0\hatayonetimi.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\c-101-patikadev\hatayonetimi\obj\Debug\net6.0\ref\hatayonetimi.dll
