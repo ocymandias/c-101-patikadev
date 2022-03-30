@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\c-101-patikadev\donguler while\bin\Debug\net6.0\donguler while.exe
+C:\Users\User\Documents\GitHub\c-101-patikadev\donguler while\bin\Debug\net6.0\donguler while.deps.json
+C:\Users\User\Documents\GitHub\c-101-patikadev\donguler while\bin\Debug\net6.0\donguler while.runtimeconfig.json
+C:\Users\User\Documents\GitHub\c-101-patikadev\donguler while\bin\Debug\net6.0\donguler while.dll
+C:\Users\User\Documents\GitHub\c-101-patikadev\donguler while\bin\Debug\net6.0\donguler while.pdb
+C:\Users\User\Documents\GitHub\c-101-patikadev\donguler while\obj\Debug\net6.0\donguler while.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\c-101-patikadev\donguler while\obj\Debug\net6.0\donguler while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\c-101-patikadev\donguler while\obj\Debug\net6.0\donguler while.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\c-101-patikadev\donguler while\obj\Debug\net6.0\donguler while.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\c-101-patikadev\donguler while\obj\Debug\net6.0\donguler while.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\c-101-patikadev\donguler while\obj\Debug\net6.0\donguler while.dll
+C:\Users\User\Documents\GitHub\c-101-patikadev\donguler while\obj\Debug\net6.0\refint\donguler while.dll
+C:\Users\User\Documents\GitHub\c-101-patikadev\donguler while\obj\Debug\net6.0\donguler while.pdb
+C:\Users\User\Documents\GitHub\c-101-patikadev\donguler while\obj\Debug\net6.0\donguler while.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\c-101-patikadev\donguler while\obj\Debug\net6.0\ref\donguler while.dll
