@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\c-101-patikadev\diziler\bin\Debug\net6.0\diziler.exe
+C:\Users\User\Documents\GitHub\c-101-patikadev\diziler\bin\Debug\net6.0\diziler.deps.json
+C:\Users\User\Documents\GitHub\c-101-patikadev\diziler\bin\Debug\net6.0\diziler.runtimeconfig.json
+C:\Users\User\Documents\GitHub\c-101-patikadev\diziler\bin\Debug\net6.0\diziler.dll
+C:\Users\User\Documents\GitHub\c-101-patikadev\diziler\bin\Debug\net6.0\diziler.pdb
+C:\Users\User\Documents\GitHub\c-101-patikadev\diziler\obj\Debug\net6.0\diziler.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\c-101-patikadev\diziler\obj\Debug\net6.0\diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\c-101-patikadev\diziler\obj\Debug\net6.0\diziler.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\c-101-patikadev\diziler\obj\Debug\net6.0\diziler.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\c-101-patikadev\diziler\obj\Debug\net6.0\diziler.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\c-101-patikadev\diziler\obj\Debug\net6.0\diziler.dll
+C:\Users\User\Documents\GitHub\c-101-patikadev\diziler\obj\Debug\net6.0\refint\diziler.dll
+C:\Users\User\Documents\GitHub\c-101-patikadev\diziler\obj\Debug\net6.0\diziler.pdb
+C:\Users\User\Documents\GitHub\c-101-patikadev\diziler\obj\Debug\net6.0\diziler.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\c-101-patikadev\diziler\obj\Debug\net6.0\ref\diziler.dll
