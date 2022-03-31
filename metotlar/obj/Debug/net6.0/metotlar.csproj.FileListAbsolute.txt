@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\c-101-patikadev\metotlar\bin\Debug\net6.0\metotlar.exe
+C:\Users\User\Documents\GitHub\c-101-patikadev\metotlar\bin\Debug\net6.0\metotlar.deps.json
+C:\Users\User\Documents\GitHub\c-101-patikadev\metotlar\bin\Debug\net6.0\metotlar.runtimeconfig.json
+C:\Users\User\Documents\GitHub\c-101-patikadev\metotlar\bin\Debug\net6.0\metotlar.dll
+C:\Users\User\Documents\GitHub\c-101-patikadev\metotlar\bin\Debug\net6.0\metotlar.pdb
+C:\Users\User\Documents\GitHub\c-101-patikadev\metotlar\obj\Debug\net6.0\metotlar.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\c-101-patikadev\metotlar\obj\Debug\net6.0\metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\c-101-patikadev\metotlar\obj\Debug\net6.0\metotlar.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\c-101-patikadev\metotlar\obj\Debug\net6.0\metotlar.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\c-101-patikadev\metotlar\obj\Debug\net6.0\metotlar.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\c-101-patikadev\metotlar\obj\Debug\net6.0\metotlar.dll
+C:\Users\User\Documents\GitHub\c-101-patikadev\metotlar\obj\Debug\net6.0\refint\metotlar.dll
+C:\Users\User\Documents\GitHub\c-101-patikadev\metotlar\obj\Debug\net6.0\metotlar.pdb
+C:\Users\User\Documents\GitHub\c-101-patikadev\metotlar\obj\Debug\net6.0\metotlar.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\c-101-patikadev\metotlar\obj\Debug\net6.0\ref\metotlar.dll
