@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\c-101-patikadev\recursive-extension\bin\Debug\net6.0\recursive-extension.exe
+C:\Users\User\Documents\GitHub\c-101-patikadev\recursive-extension\bin\Debug\net6.0\recursive-extension.deps.json
+C:\Users\User\Documents\GitHub\c-101-patikadev\recursive-extension\bin\Debug\net6.0\recursive-extension.runtimeconfig.json
+C:\Users\User\Documents\GitHub\c-101-patikadev\recursive-extension\bin\Debug\net6.0\recursive-extension.dll
+C:\Users\User\Documents\GitHub\c-101-patikadev\recursive-extension\bin\Debug\net6.0\recursive-extension.pdb
+C:\Users\User\Documents\GitHub\c-101-patikadev\recursive-extension\obj\Debug\net6.0\recursive-extension.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\c-101-patikadev\recursive-extension\obj\Debug\net6.0\recursive-extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\c-101-patikadev\recursive-extension\obj\Debug\net6.0\recursive-extension.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\c-101-patikadev\recursive-extension\obj\Debug\net6.0\recursive-extension.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\c-101-patikadev\recursive-extension\obj\Debug\net6.0\recursive-extension.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\c-101-patikadev\recursive-extension\obj\Debug\net6.0\recursive-extension.dll
+C:\Users\User\Documents\GitHub\c-101-patikadev\recursive-extension\obj\Debug\net6.0\refint\recursive-extension.dll
+C:\Users\User\Documents\GitHub\c-101-patikadev\recursive-extension\obj\Debug\net6.0\recursive-extension.pdb
+C:\Users\User\Documents\GitHub\c-101-patikadev\recursive-extension\obj\Debug\net6.0\recursive-extension.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\c-101-patikadev\recursive-extension\obj\Debug\net6.0\ref\recursive-extension.dll
