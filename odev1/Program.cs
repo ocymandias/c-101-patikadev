@@ -52,8 +52,13 @@ namespace MyApp // Note: actual namespace depends on the project name.
         Console.WriteLine("4. soru:lütfen bir cümle yazınız");
             string kelimedizisi2 = Convert.ToString(Console.ReadLine());
             string[] kelime = kelimedizisi2.Split(" ");
+            int toplam=0;
+               for (int i = 0; i < kelime.Length ; i++)
+               {
+                   toplam = toplam + kelime[i].Length;
+               }
             Console.WriteLine("cümlede {0} kadar kelime vardır" , kelime.Length);
-            Console.WriteLine("cümlede {0} kadar harf vardır" , kelimedizisi2.Length);
+            Console.WriteLine("cümlede " + toplam + " kadar harf vardır.");
         } 
     }
 }
