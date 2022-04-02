@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\c-101-patikadev\hazir-metotlar-datetime\bin\Debug\net6.0\hazir-metotlar-datetime.exe
+C:\Users\User\Documents\GitHub\c-101-patikadev\hazir-metotlar-datetime\bin\Debug\net6.0\hazir-metotlar-datetime.deps.json
+C:\Users\User\Documents\GitHub\c-101-patikadev\hazir-metotlar-datetime\bin\Debug\net6.0\hazir-metotlar-datetime.runtimeconfig.json
+C:\Users\User\Documents\GitHub\c-101-patikadev\hazir-metotlar-datetime\bin\Debug\net6.0\hazir-metotlar-datetime.dll
+C:\Users\User\Documents\GitHub\c-101-patikadev\hazir-metotlar-datetime\bin\Debug\net6.0\hazir-metotlar-datetime.pdb
+C:\Users\User\Documents\GitHub\c-101-patikadev\hazir-metotlar-datetime\obj\Debug\net6.0\hazir-metotlar-datetime.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\c-101-patikadev\hazir-metotlar-datetime\obj\Debug\net6.0\hazir-metotlar-datetime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\c-101-patikadev\hazir-metotlar-datetime\obj\Debug\net6.0\hazir-metotlar-datetime.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\c-101-patikadev\hazir-metotlar-datetime\obj\Debug\net6.0\hazir-metotlar-datetime.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\c-101-patikadev\hazir-metotlar-datetime\obj\Debug\net6.0\hazir-metotlar-datetime.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\c-101-patikadev\hazir-metotlar-datetime\obj\Debug\net6.0\hazir-metotlar-datetime.dll
+C:\Users\User\Documents\GitHub\c-101-patikadev\hazir-metotlar-datetime\obj\Debug\net6.0\refint\hazir-metotlar-datetime.dll
+C:\Users\User\Documents\GitHub\c-101-patikadev\hazir-metotlar-datetime\obj\Debug\net6.0\hazir-metotlar-datetime.pdb
+C:\Users\User\Documents\GitHub\c-101-patikadev\hazir-metotlar-datetime\obj\Debug\net6.0\hazir-metotlar-datetime.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\c-101-patikadev\hazir-metotlar-datetime\obj\Debug\net6.0\ref\hazir-metotlar-datetime.dll
