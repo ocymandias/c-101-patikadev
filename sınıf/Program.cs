@@ -12,11 +12,7 @@ namespace Sınıf
         {
            
             
-            adam adam1 = new adam();
-            adam1.name = "ahmet";
-            adam1.surname = "yılmaz";
-            adam1.id = 199;
-            adam1.department = "aaa";
+            adam adam1 = new adam("ahmet","yılmaz",199,"aaa");
             adam1.sorgulama();
             Console.WriteLine("- - - - - - - - -");
 
@@ -28,6 +24,9 @@ namespace Sınıf
             adam2.sorgulama();
             Console.WriteLine("- - - - - - - - -");
 
+            adam adam3 = new adam("ahmet","yılmaz");
+            adam3.sorgulama();
+
             Console.ReadLine();
         }
         class adam
@@ -36,6 +35,20 @@ namespace Sınıf
             public string name;
             public string surname;
             public string department;
+
+            public adam(string name, string surname, int id, string department){
+               this.name = name;
+               this.surname = surname;
+               this.id = id;
+               this.department = department;
+
+            }
+            public adam(string name, string surname){
+               this.name = name;
+               this.surname = surname;
+
+            }
+            public adam(){}
 
             public void sorgulama()
             {
