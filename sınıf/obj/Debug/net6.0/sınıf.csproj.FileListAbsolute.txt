@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\c-101-patikadev\sınıf\bin\Debug\net6.0\sınıf.exe
+C:\Users\User\Documents\GitHub\c-101-patikadev\sınıf\bin\Debug\net6.0\sınıf.deps.json
+C:\Users\User\Documents\GitHub\c-101-patikadev\sınıf\bin\Debug\net6.0\sınıf.runtimeconfig.json
+C:\Users\User\Documents\GitHub\c-101-patikadev\sınıf\bin\Debug\net6.0\sınıf.dll
+C:\Users\User\Documents\GitHub\c-101-patikadev\sınıf\bin\Debug\net6.0\sınıf.pdb
+C:\Users\User\Documents\GitHub\c-101-patikadev\sınıf\obj\Debug\net6.0\sınıf.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\c-101-patikadev\sınıf\obj\Debug\net6.0\sınıf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\c-101-patikadev\sınıf\obj\Debug\net6.0\sınıf.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\c-101-patikadev\sınıf\obj\Debug\net6.0\sınıf.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\c-101-patikadev\sınıf\obj\Debug\net6.0\sınıf.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\c-101-patikadev\sınıf\obj\Debug\net6.0\sınıf.dll
+C:\Users\User\Documents\GitHub\c-101-patikadev\sınıf\obj\Debug\net6.0\refint\sınıf.dll
+C:\Users\User\Documents\GitHub\c-101-patikadev\sınıf\obj\Debug\net6.0\sınıf.pdb
+C:\Users\User\Documents\GitHub\c-101-patikadev\sınıf\obj\Debug\net6.0\sınıf.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\c-101-patikadev\sınıf\obj\Debug\net6.0\ref\sınıf.dll
