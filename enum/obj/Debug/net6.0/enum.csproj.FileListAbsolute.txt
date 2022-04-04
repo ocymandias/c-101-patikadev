@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\c-101-patikadev\enum\bin\Debug\net6.0\enum.exe
+C:\Users\User\Documents\GitHub\c-101-patikadev\enum\bin\Debug\net6.0\enum.deps.json
+C:\Users\User\Documents\GitHub\c-101-patikadev\enum\bin\Debug\net6.0\enum.runtimeconfig.json
+C:\Users\User\Documents\GitHub\c-101-patikadev\enum\bin\Debug\net6.0\enum.dll
+C:\Users\User\Documents\GitHub\c-101-patikadev\enum\bin\Debug\net6.0\enum.pdb
+C:\Users\User\Documents\GitHub\c-101-patikadev\enum\obj\Debug\net6.0\enum.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\c-101-patikadev\enum\obj\Debug\net6.0\enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\c-101-patikadev\enum\obj\Debug\net6.0\enum.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\c-101-patikadev\enum\obj\Debug\net6.0\enum.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\c-101-patikadev\enum\obj\Debug\net6.0\enum.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\c-101-patikadev\enum\obj\Debug\net6.0\enum.dll
+C:\Users\User\Documents\GitHub\c-101-patikadev\enum\obj\Debug\net6.0\refint\enum.dll
+C:\Users\User\Documents\GitHub\c-101-patikadev\enum\obj\Debug\net6.0\enum.pdb
+C:\Users\User\Documents\GitHub\c-101-patikadev\enum\obj\Debug\net6.0\enum.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\c-101-patikadev\enum\obj\Debug\net6.0\ref\enum.dll
